@@ -1,0 +1,12 @@
+x = 120, y = 60, rule = B3/S23
+6$32b2o25b2o$33bo25bo$33bobo21bobo$34b2o10b2o9b2o$45bo2bo$40b2o3bo2b2o
+$40b2o2bo2b2o$44b4o2$44b4o$40b2o2bo2b2o$40b2o3bo2b2o$45bo2bo$34b2o10b
+2o9b2o31b2o$33bobo21bobo30bobo$33bo25bo32bo$32b2o25b2o29bob2ob2o$90b2o
+4bo$93b2o$90b3ob2o$83b2ob2obo6bo2b2o$83bo3bobo2b4obo2bo$84b3o2bobobobo
+b2o$65bo20bobo2b2o5bobo$63b3o22b2obo3bobo2b3o$62bo23bo2bob2obo2bobo3bo
+$62b2o22b2o2bo6bob2ob2o$46b2o19b2o22b2ob3o$47bo19bo24b2o$47bobo15bobo
+22bo4b2o$48b2o8b3o4b2o23b2ob2obo$52b2o2b5o33bo$52b2ob2o2b2o33bobo$56bo
+2bo35b2o$57b2obo$57b3o5$52b2o15b2o$51bobo15bobo$51bo19bo$50b2o19b2o$
+55b2o$56bo$53b3o$53bo!
+
+
